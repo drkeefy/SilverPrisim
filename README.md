@@ -12,9 +12,9 @@
 
 
 
-------
+---
 Made with:
-img src="https://github.com/KeithKhaotic/KeithKhaotic/blob/images/image_2022-06-24_175949532.png?raw=true"
+<img src="https://github.com/KeithKhaotic/KeithKhaotic/blob/images/image_2022-06-24_175949532.png?raw=true"
 width="50"
 height="50">
 <img src="https://github.com/KeithKhaotic/KeithKhaotic/blob/images/image_2022-06-18_182301764.png?raw=true"
