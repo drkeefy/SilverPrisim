@@ -8,7 +8,11 @@
 
 
 
+---
+# Silver Prism...
+is a content creator & streamer.
 
+[Join his Discord](https://discord.gg/3gVs8DZbWk)
 
 
 
